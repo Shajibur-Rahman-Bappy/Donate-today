@@ -1,0 +1,32 @@
+body {
+    font-family: "Sofia", sans-serif;
+  }
+  .first-part{
+    text-align: center;
+    padding: 8%;
+  }
+  #deco-1{
+    font-size: 600%;
+    color:darksalmon
+  }
+  .back-img{
+    position:absolute;
+    height: 100%;
+    width: 100%;
+    background-image: url(donate-today-main/images/donation2.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  #deco{
+    font-size: 150%;
+    color: white;
+  }
+  #deco-2{
+    border: none;
+    border-radius: 10px;
+    background-color:aquamarine;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+  }
