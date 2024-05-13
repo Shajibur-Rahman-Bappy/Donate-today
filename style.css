@@ -3,16 +3,17 @@ body {
   }
   .first-part{
     text-align: center;
-    padding: 8%;
+    padding: 15%;
   }
   #deco-1{
     font-size: 4rem;
     text-shadow: .05em .05em .05em rgba(0, 0, 0, 3);
+    color: white;
   }
   .blured{
     position:absolute;
-    height: 100vh;
-    width: 100%;
+    height: 90%;
+    width: 99%;
     background-image: url(donate-today-main/images/donation2.jpg);
     background-size: cover;
     z-index: -1;
@@ -31,4 +32,77 @@ body {
     font-size: 16px;
     cursor: pointer;
     display: inline-block;
+  }
+  .second-part{
+    text-align: center;
+    padding: 5%;
+  }
+  #header-size{
+    font-size: 3rem;
+    text-shadow: .05em .05em .05em rgba(0, 0, 0, .3);
+  }
+  #paragraph-size{
+    font-size: 1.3rem;
+    padding: 0% 20%;
+  }
+  .separate{
+    display: flex;
+    text-align: center;
+    padding:2% 32%;
+  }
+  #a{
+    border:solid white;
+    background-color:antiquewhite;
+    padding: 36px 28px;
+    font-size: 24px;
+    cursor: pointer;
+    display: inline-block;
+  }
+  #b{
+    border:solid white;
+    background-color:antiquewhite;
+    padding: 36px 28px;
+    font-size: 24px;
+    cursor: pointer;
+    display: inline-block;
+  }
+  #c{
+    border:solid white;
+    background-color:antiquewhite;
+    padding: 36px 28px;
+    font-size: 24px;
+    cursor: pointer;
+    display: inline-block;
+  }
+  #d{
+    border:solid white;
+    background-color:antiquewhite;
+    padding: 36px 28px;
+    font-size: 24px;
+    cursor: pointer;
+    display: inline-block;
+  }
+  #e{
+    background-color:antiquewhite;
+    padding: 36px 28px;
+    font-size: 24px;
+    cursor: pointer;
+    display: inline-block;
+    border: solid white;
+  }
+  #money-input{
+    text-align: center;
+    font-size: 24px;
+    border: none;
+  }
+  #inp{
+    margin-top: 24px;
+    border: none;
+    border-radius: 10px;
+    background-color:aquamarine;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+
   }
