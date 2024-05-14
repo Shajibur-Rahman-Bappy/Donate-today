@@ -106,3 +106,18 @@ body {
     display: inline-block;
 
   }
+  .plan-part1{
+    text-align: center;
+    font-size: 1.8rem;
+  }
+  #plaan-1{
+    font-size: 1.3rem;
+  }
+  .plan-part2{
+    height: 352px;
+    width: 360px;
+    margin-left: 10%;
+    padding: 2%;
+    background-color: aliceblue;
+    margin-top: 2%;
+  }
