@@ -140,3 +140,30 @@ body {
     background-color: lightgoldenrodyellow;
     margin-top: 2%;
   }
+  .partition1{
+    display: flex;
+    margin-top: 5%;
+  }
+  .donation-part1{
+    width: 50%;
+    padding: 5%;
+  }
+  #donation-txtsize{
+    font-size: 3rem;
+  }
+  #donation-psize{
+    font-size: 1.3rem;
+  }
+  #buton-deco{
+    margin-top: 24px;
+    border: none;
+    border-radius: 10px;
+    background-color:aquamarine;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+  }
+  .image-donate{
+    margin-top: 5%;
+  }
