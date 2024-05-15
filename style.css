@@ -143,6 +143,7 @@ body {
   .partition1{
     display: flex;
     margin-top: 5%;
+    width: 100%;
   }
   .donation-part1{
     width: 50%;
@@ -165,5 +166,90 @@ body {
     display: inline-block;
   }
   .image-donate{
+    margin-top: 8%;
+    width: 70%;
+  }
+  .image-donate2{
+    margin-top: 8%;
+    margin-left: 5%;
+    width: 50%;
+  }
+  .partition2{
+    display: flex;
     margin-top: 5%;
+    width: 100%;
+  }
+  .donation-part2{
+    width: 50%;
+    padding: 5%;
+  }
+  #donation-txtsize1{
+    font-size: 3rem;
+  }
+  #donation-psize1{
+    font-size: 1.3rem;
+  }
+  .button-deco1{
+    margin-top: 24px;
+    border: none;
+    border-radius: 10px;
+    background-color:aquamarine;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+  }
+  .partition3{
+    text-align: center;
+    width: 100%;
+    margin-top: 10%;
+  }
+  .subscribe-align{
+    text-align: center;
+    height: 60px;
+    width: 700px;
+    padding: 5% 10%;
+    margin-left: 21%;
+    background-color: lightgoldenrodyellow;
+    border: solid lightgoldenrodyellow;
+  }
+  #last-part{
+    font-size: 3rem;
+  }
+  #last-part1{
+    font-size: 1.3rem;
+    width: 100%;
+  }
+  #mail{
+    height: 48px;
+    width: 432px;
+    padding-left: 25px;
+    background-color: darkgray;
+    border: none;
+    border-radius: 5PX;
+    font-size: 1.3rem;
+  }
+  #subs-button{
+    height: 48px;
+    width: 157px;
+    background-color: #ff5959;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.3rem;
+  }
+  .fot{
+    text-align: center;
+    width: 100%;
+    height: 177px;
+    background-color: black;
+    margin-top: 10%;
+    padding-top: 3%;
+  }
+  #foter-d{
+    font-size: 3rem;
+    color: #ff5959;
+  }
+  #foter-f{
+    font-size: 1rem;
+    color: white;
   }
